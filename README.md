@@ -14,3 +14,6 @@ int main() {
   return 0;
 }
 ```
+
+Rozwiązania [Jacka](http://inf.ug.edu.pl/).
+
